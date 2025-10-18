@@ -38,7 +38,7 @@ Artificial Intelligence And Data Science Student at ENSIA.
 [![](https://visitcount.itsvg.in/api?id=asmaambr&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Asmaa-MOBAREK) 
+ ☕ Support my work: [ko-fi.com/asmaa](https://ko-fi.com/asmaambr)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
