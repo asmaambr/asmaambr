@@ -1,9 +1,9 @@
-## Hi, I'm Asmaa 👋
+## Hi, I'm Asmaa 
 
-Artificial Intelligence And Data Science Student at ENSIA.
+Artificial Intelligence And Data Science Enthusiast.
 
 - 🌱 I’m currently learning German and video editing
-- 💬 Ask me about Data Structures And Algorithms
+- 💬 Ask me about anything!
 
 
 ## 🌐 Socials:
