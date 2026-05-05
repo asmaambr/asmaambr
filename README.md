@@ -28,6 +28,12 @@ Artificial Intelligence And Data Science Enthusiast.
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-003B57?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=asmaambr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
